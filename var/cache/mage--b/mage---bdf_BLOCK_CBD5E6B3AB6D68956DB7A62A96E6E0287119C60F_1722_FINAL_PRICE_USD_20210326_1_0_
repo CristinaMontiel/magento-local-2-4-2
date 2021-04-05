@@ -1,0 +1,16 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1616789993;s:6:"expire";i:1616876393;s:4:"tags";s:48:"bdf_BLOCK_HTML,bdf_CAT_P_1722,bdf_CAT_P,bdf_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:12:{s:44:"KXHwPBmm9YG7ebEG4y3/Jcg+oVqY16VVYf6mXdOAwBs=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"JHLCPifkkzw3K2EYJZjZflnZWiVKYFNMXaPZl918iKw=";s:6:"sha256";s:44:"pwRXT+USZE6zTOd2K7UN8ZdCFsIdGprOnorwFaktlBY=";s:6:"sha256";s:44:"pQgN4cw+Hj54TXLfYmm5sog3W7390KicLfkhHXt5WfQ=";s:6:"sha256";s:44:"kFtv+VN3fDuqvbjpqhILX13uYYX2ek7CxEwuaY53Wn0=";s:6:"sha256";s:44:"haHjRLoVvfRN4ZcfmhqMUNz5TNa7WFJ9qUP/o6hz9tQ=";s:6:"sha256";s:44:"Yc1rDc9aEyA85t9QSnRHI5PZ9mju00zJNFNHi+Le07c=";s:6:"sha256";s:44:"nEz3DIa553g+H9O441LpHxiZUNUSO/0JQlOa5d64YQA=";s:6:"sha256";s:44:"SE1jLgKAW3WOL/bqNawc+vEu7l2fHe3/KKUaMjdYPfI=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:1:{s:44:"KAQ925WKDRhmDtaboqhLPdhD7Axx8oNdZ0fXD13xjno=";s:6:"sha256";}}}s:4:"html";s:507:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="1722" data-price-box="product-id-1722"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-1722"                data-price-amount="39"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$39.00</span></span>
+        </span>
+</span>
+
+
+</div>";}

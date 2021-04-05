@@ -1,0 +1,1084 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1617033028;s:6:"expire";i:1617119428;s:4:"tags";s:33:"bdf_CAT_P,bdf_BLOCK_HTML,bdf_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:27:{s:44:"KXHwPBmm9YG7ebEG4y3/Jcg+oVqY16VVYf6mXdOAwBs=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"u9RcX6oZ4R7SeFEMQkf6sy2OFgTbT+znmo3GRuBf38Q=";s:6:"sha256";s:44:"FKxxAGcaR1sQVtSANtZ+s8tWcWgLHbfry3xLNGsiY/4=";s:6:"sha256";s:44:"Yc1rDc9aEyA85t9QSnRHI5PZ9mju00zJNFNHi+Le07c=";s:6:"sha256";s:44:"C9mU6GUx9tQtwvZJd6kqdlzxHewPNIsV0U/6xcLiPrY=";s:6:"sha256";s:44:"lJsg7R1uoe5M7gh7wGD3oMGQy11n+VgIwpSbK4Ofhdk=";s:6:"sha256";s:44:"ypxwH/yieuanglCJ57Zf0/oqhP+Ykyv2fk6d7FmdkCM=";s:6:"sha256";s:44:"PD27MpUwlQsKtMUypG+hRCflU3TY+IObFzm69YeVk8E=";s:6:"sha256";s:44:"6xyuiF00gf0VDvekVPK5m2R5Aual3/9bx809l6G/eB4=";s:6:"sha256";s:44:"pm/ykv3FjvcB4QyHetvlbSyhBk2SsZvkz2Dim9xA5RI=";s:6:"sha256";s:44:"dtVkYC1wZrzzXaHlzmkZJb6STppWSrsUVNXM+xAog9I=";s:6:"sha256";s:44:"BD3hYmhXi3MjDB+nFhRD5UmON10kc2dAaxmG5BKQjRM=";s:6:"sha256";s:44:"BaeoMlY6BJMyXXQ40KAoGip4uB6ARg6rxVjNca6C6ms=";s:6:"sha256";s:44:"fqsJvG7RX5p5Cs214LstpJ4DBYkW8ZiIPObS3qsE1wk=";s:6:"sha256";s:44:"jH1WXLSiLDIb1Hj9YozsTY26Oi1kK/jRJTvkqaO3GGw=";s:6:"sha256";s:44:"mLkXDv9VX6Kw3D8h+39UMkaz9noVqapY9WpEzSJU35s=";s:6:"sha256";s:44:"ufe2M4XtWMc1HmNEgRmIjJx9/cckNkG2+7FwF4uRJJc=";s:6:"sha256";s:44:"vVMGHsyvID3+Lm8aH/iC53UN06zLI7eGET5WnCIB9dQ=";s:6:"sha256";s:44:"cYAj6jhdeQyzGrwot7xPa+60g43u26wqSArgN9jkJKU=";s:6:"sha256";s:44:"K7o4bcgr3Yj/eSwj0f5+i9od8H8Mk/YVEA9pFeJud24=";s:6:"sha256";s:44:"pYuNXK2wdoQeCo/q8MWarxGiZ1nx8iI8kznrc4W8wNM=";s:6:"sha256";s:44:"ij8ei1xHP5PZtq0V9cT+YeEPCZosDj5V3GIO43BiCQk=";s:6:"sha256";s:44:"HVbl0inBF0ibbnlc5OiMGMkb1JFzWE1NR/0meSgDV3w=";s:6:"sha256";s:44:"NdP9PxkSoIOyPHVyVxHKNPq6RaJugf+1FzcpSWvIZfA=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:10:{s:44:"DaDTmr69IQdwN8/HNoyu5qGzPGwpdYmB2K9Q/ODFsWE=";s:6:"sha256";s:44:"85kq34cMF45mIy+6J+yO9m2XonVqM2VUFDbvwmueL4k=";s:6:"sha256";s:44:"SvGjFEjCGe0gVQUKo8CbC1GJ/jmxaDDTvDc+VXSqOAE=";s:6:"sha256";s:44:"QqJK8JsVUNAKhX7Td3/7baGehFaasDp9CvYeIXUDJEY=";s:6:"sha256";s:44:"eFma3NVkP9Jh4n9Srd30I0LHnppnann4xCM59D4Lrbc=";s:6:"sha256";s:44:"N8hT8ApBzhQzmL9WDflae0DeDPmp3oLfNQCPwvODnUs=";s:6:"sha256";s:44:"BkQqQ5lHmLOUuO6ib3SfhVXDvAk942+u39FADLBa6K4=";s:6:"sha256";s:44:"1hFJ3AjJbm5ujbFws9HD6w2GN3Bu6DpMajOxj0j/1lY=";s:6:"sha256";s:44:"8u4z+L5M/fw4HSXTmDjZGdagTCc8bBMyNEPszecVp1s=";s:6:"sha256";s:44:"42gFYOlzb8RRgPtCP9TWatKloHbgFQRgZEzy4B1R4tY=";s:6:"sha256";}}}s:4:"html";s:79877:"
+        <div style="margin-bottom: 0;" class="owl-button-top top-margin bottom-margin above-padding below-padding block widget block-new-products grid">
+        <div class="title-block">
+            <strong role="heading" aria-level="2"><span>New Products</span></strong>
+        </div>
+        <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <div class="slider-outer">
+                    <ol style="margin-bottom: 0;" class="product-widget-slider products list items product-items widget-new-grid">
+                                                                            <li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/erika-running-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-2046">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh12-green_main_1.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Erika&#x20;Running&#x20;Short"/></span>
+</span>
+<style>.product-image-container-2046 {
+    width: 350px;
+}
+.product-image-container-2046 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-2046");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-2046  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/2046\/","data":{"product":"2046","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":2046,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"2046","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Erika Running Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/erika-running-short.html"
+                                           class="product-item-link">
+                                            Erika Running Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2046" data-price-box="product-id-2046"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2046-widget-new-grid"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$45.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="60%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">60                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elem2tS3TggI = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elem2tS3TggI) {
+elem2tS3TggI.style.width = '60%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/erika-running-short.html#reviews">
+                <span itemprop="reviewCount">3</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/erika-running-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/ana-running-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-2023">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh10-black_main_1.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Ana&#x20;Running&#x20;Short"/></span>
+</span>
+<style>.product-image-container-2023 {
+    width: 350px;
+}
+.product-image-container-2023 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-2023");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-2023  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/2023\/","data":{"product":"2023","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":2023,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"2023","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Ana Running Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/ana-running-short.html"
+                                           class="product-item-link">
+                                            Ana Running Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2023" data-price-box="product-id-2023"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2023-widget-new-grid"                data-price-amount="40"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$40.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="80%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">80                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elemrh0sA7OV = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elemrh0sA7OV) {
+elemrh0sA7OV.style.width = '80%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/ana-running-short.html#reviews">
+                <span itemprop="reviewCount">3</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/ana-running-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/ina-compression-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-2030">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh11-blue_main_1.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Ina&#x20;Compression&#x20;Short"/></span>
+</span>
+<style>.product-image-container-2030 {
+    width: 350px;
+}
+.product-image-container-2030 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-2030");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-2030  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/2030\/","data":{"product":"2030","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":2030,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"2030","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Ina Compression Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/ina-compression-short.html"
+                                           class="product-item-link">
+                                            Ina Compression Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2030" data-price-box="product-id-2030"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2030-widget-new-grid"                data-price-amount="49"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$49.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="73%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">73                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elemQ3VAZPNT = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elemQ3VAZPNT) {
+elemQ3VAZPNT.style.width = '73%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/ina-compression-short.html#reviews">
+                <span itemprop="reviewCount">3</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/ina-compression-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/angel-light-running-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-1996">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh06-gray_main_1.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Angel&#x20;Light&#x20;Running&#x20;Short"/></span>
+</span>
+<style>.product-image-container-1996 {
+    width: 350px;
+}
+.product-image-container-1996 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1996");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1996  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/1996\/","data":{"product":"1996","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":1996,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"1996","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Angel Light Running Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/angel-light-running-short.html"
+                                           class="product-item-link">
+                                            Angel Light Running Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1996" data-price-box="product-id-1996"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-1996-widget-new-grid"                data-price-amount="42"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$42.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="70%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">70                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elemET5UEn2I = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elemET5UEn2I) {
+elemET5UEn2I.style.width = '70%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/angel-light-running-short.html#reviews">
+                <span itemprop="reviewCount">2</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/angel-light-running-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/sybil-running-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-2009">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh08-purple_main_1.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Sybil&#x20;Running&#x20;Short"/></span>
+</span>
+<style>.product-image-container-2009 {
+    width: 350px;
+}
+.product-image-container-2009 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-2009");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-2009  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/2009\/","data":{"product":"2009","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":2009,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"2009","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Sybil Running Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/sybil-running-short.html"
+                                           class="product-item-link">
+                                            Sybil Running Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2009" data-price-box="product-id-2009"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2009-widget-new-grid"                data-price-amount="44"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$44.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="93%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">93                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elemPXiLcga5 = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elemPXiLcga5) {
+elemPXiLcga5.style.width = '93%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/sybil-running-short.html#reviews">
+                <span itemprop="reviewCount">3</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/sybil-running-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/echo-fit-compression-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-2003">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh07-black_main_1.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Echo&#x20;Fit&#x20;Compression&#x20;Short"/></span>
+</span>
+<style>.product-image-container-2003 {
+    width: 350px;
+}
+.product-image-container-2003 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-2003");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-2003  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/2003\/","data":{"product":"2003","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":2003,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"2003","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Echo Fit Compression Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/echo-fit-compression-short.html"
+                                           class="product-item-link">
+                                            Echo Fit Compression Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2003" data-price-box="product-id-2003"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2003-widget-new-grid"                data-price-amount="24"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$24.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="67%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">67                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elemDvSJVfcu = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elemDvSJVfcu) {
+elemDvSJVfcu.style.width = '67%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/echo-fit-compression-short.html#reviews">
+                <span itemprop="reviewCount">3</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/echo-fit-compression-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/mimi-all-purpose-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-2016">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh09-gray_main_1.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Mimi&#x20;All-Purpose&#x20;Short"/></span>
+</span>
+<style>.product-image-container-2016 {
+    width: 350px;
+}
+.product-image-container-2016 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-2016");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-2016  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/2016\/","data":{"product":"2016","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":2016,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"2016","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Mimi All-Purpose Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/mimi-all-purpose-short.html"
+                                           class="product-item-link">
+                                            Mimi All-Purpose Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2016" data-price-box="product-id-2016"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2016-widget-new-grid"                data-price-amount="44"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$44.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="67%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">67                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elemyZMUQLxh = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elemyZMUQLxh) {
+elemyZMUQLxh.style.width = '67%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/mimi-all-purpose-short.html#reviews">
+                <span itemprop="reviewCount">3</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/mimi-all-purpose-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/artemis-running-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-1973">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh04-black_main_1.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Artemis&#x20;Running&#x20;Short"/></span>
+</span>
+<style>.product-image-container-1973 {
+    width: 350px;
+}
+.product-image-container-1973 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1973");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1973  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/1973\/","data":{"product":"1973","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":1973,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"1973","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Artemis Running Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/artemis-running-short.html"
+                                           class="product-item-link">
+                                            Artemis Running Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1973" data-price-box="product-id-1973"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-1973-widget-new-grid"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$45.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="80%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">80                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elembnktHCvF = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elembnktHCvF) {
+elembnktHCvF.style.width = '80%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/artemis-running-short.html#reviews">
+                <span itemprop="reviewCount">2</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/artemis-running-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/gwen-drawstring-bike-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-1957">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh03-gray_main_2.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Gwen&#x20;Drawstring&#x20;Bike&#x20;Short"/></span>
+</span>
+<style>.product-image-container-1957 {
+    width: 350px;
+}
+.product-image-container-1957 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1957");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1957  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/1957\/","data":{"product":"1957","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":1957,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"1957","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Gwen Drawstring Bike Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/gwen-drawstring-bike-short.html"
+                                           class="product-item-link">
+                                            Gwen Drawstring Bike Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1957" data-price-box="product-id-1957"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-1957-widget-new-grid"                data-price-amount="50"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$50.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="90%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">90                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elemZFpbyco4 = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elemZFpbyco4) {
+elemZFpbyco4.style.width = '90%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/gwen-drawstring-bike-short.html#reviews">
+                <span itemprop="reviewCount">2</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/gwen-drawstring-bike-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://magento-2.4.2.giaphugroup.com/bess-yoga-short.html" class="product-item-photo ">
+                                        <span class="product-image-container product-image-container-1989">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://magento-2.4.2.giaphugroup.com/media/catalog/product\cache\d029f770cadfac6fe78d008bf2b8f818\/w/s/wsh05-blue_main_1.jpg"
+            loading="lazy"
+            width="350"
+            height="350"
+            alt="Bess&#x20;Yoga&#x20;Short"/></span>
+</span>
+<style>.product-image-container-1989 {
+    width: 350px;
+}
+.product-image-container-1989 span.product-image-wrapper {
+    padding-bottom: 100%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1989");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1989  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "100%";
+}</script>                                                                            </a>
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action only-icon tocart primary"
+                                                                        data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw%2C%2C\/product\/1989\/","data":{"product":"1989","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                                                                                    <div class="product actions product-item-actions">
+                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                                            <a href="#"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/wishlist\/index\/add\/","data":{"product":1989,"uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   class="action towishlist" data-action="add-to-wishlist"
+                                                                   title="Add to Wish List">
+                                                                    <span>Add to Wish List</span>
+                                                                </a>
+                                                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                                   data-post='{"action":"http:\/\/magento-2.4.2.giaphugroup.com\/catalog\/product_compare\/add\/","data":{"product":"1989","uenc":"aHR0cDovL21hZ2VudG8tMi40LjIuZ2lhcGh1Z3JvdXAuY29tLw,,"}}'
+                                                                   title="Add to Compare">
+                                                                    <span>Add to Compare</span>
+                                                                </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Bess Yoga Short"
+                                           href="http://magento-2.4.2.giaphugroup.com/bess-yoga-short.html"
+                                           class="product-item-link">
+                                            Bess Yoga Short                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="1989" data-price-box="product-id-1989"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-1989-widget-new-grid"                data-price-amount="28"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$28.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                    <div class="product-reviews-summary" itemprop="aggregateRating" itemscope
+         itemtype="http://schema.org/AggregateRating">
+                <div class="rating-summary">
+             <span class="label"><span>Rating:</span></span>
+             <div class="rating-result" title="73%">
+                 <span>
+                     <span>
+                         <span itemprop="ratingValue">73                         </span>% of <span itemprop="bestRating">100</span>
+                     </span>
+                 </span>
+             </div>
+         </div>
+            <script type="text&#x2F;javascript">var elemeDmaZWh2 = document.querySelector('div.rating-summary div.rating-result>span:first-child');
+if (elemeDmaZWh2) {
+elemeDmaZWh2.style.width = '73%';
+}</script>                <div class="reviews-actions">
+            <a class="action view"
+               href="http://magento-2.4.2.giaphugroup.com/bess-yoga-short.html#reviews">
+                <span itemprop="reviewCount">3</span>&nbsp;
+                <span>Reviews                </span>
+            </a>
+            <a class="action add" href="http://magento-2.4.2.giaphugroup.com/bess-yoga-short.html#review-form">
+                Add Your Review            </a>
+        </div>
+    </div>
+                                    
+
+                                </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <script type="text/javascript" xml="space">
+        require(['jquery', 'apparelowlcarousel'], function() {
+            jQuery(document).ready(function() {
+                jQuery(".product-widget-slider").owlCarousel({
+                    items: 4,
+                    itemsDesktop: [1199, 4],
+                    itemsDesktopSmall: [991, 3],
+                    itemsTablet: [767, 3],
+                    itemsTabletSmall: [639, 3],
+                    itemsMobile: [479, 2],
+                    pagination: false,
+                    navigationText: ["<div class='left-arrow'><i class='fa fa-arrow-left'></i></div>", "<div class='right-arrow'><i class='fa fa-arrow-right'></div>"],
+                    navigation: true,
+                });
+                jQuery('.product-widget-slider .product-slider').show();
+            });
+        });
+    </script>
+";}
